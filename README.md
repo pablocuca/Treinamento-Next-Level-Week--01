@@ -43,9 +43,9 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 
 Faça um fork em um dos 3 repositórios que fazem parte deste projeto;
 
- - [Back End]([https://github.com/pablocuca/nlw_01_backend](https://github.com/pablocuca/nlw_01_backend))
- - [Front End]([https://github.com/pablocuca/nlw_01_frontend](https://github.com/pablocuca/nlw_01_frontend))
- - [Mobile]([https://github.com/pablocuca/nlw_01_mobile](https://github.com/pablocuca/nlw_01_mobile))
+ - [Back End](https://github.com/pablocuca/nlw_01_backend)
+ - [Front End](https://github.com/pablocuca/nlw_01_frontend)
+ - [Mobile](https://github.com/pablocuca/nlw_01_mobile)
 
  1. Cria uma branch com a sua feature: `git checkout -b minha-feature`;
  2. Faça commit das suas alterações: `git commit -m 'feat: Minha nova
